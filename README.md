@@ -1,6 +1,6 @@
-# Abnormal File Vault
+# Secure File Vault
 
-Abnormal File Vault is a Django REST API for secure file storage with SHA-256 deduplication, parameterized search, sliding-window rate limiting, per-user storage quotas, encrypted storage at rest, and streaming downloads.
+Secure File Vault is a Django REST API for secure file storage with SHA-256 deduplication, parameterized search, sliding-window rate limiting, per-user storage quotas, encrypted storage at rest, and streaming downloads.
 
 The project is intentionally packaged as a single-container backend for the take-home challenge. Internally, the code is split into clear service boundaries so deduplication, encryption, and query behavior can be extracted later without changing the public API.
 
