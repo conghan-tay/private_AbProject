@@ -8,8 +8,8 @@ The project is intentionally packaged as a single-container backend for the take
 
 | Document | Purpose |
 | --- | --- |
-| [docs/AbnormalFileVault_PRD.docx](docs/SecureFileVault_PRD.docx) | Product requirements, API contract, assumptions, test strategy, and build plan. |
-| [docs/AbnormalFileVault_Architecture.docx](docs/SecureFileVault_Architecture.docx) | Runtime architecture, module breakdown, data model, query/index design, and scale path. |
+| [docs/SecureFileVault_PRD.docx](docs/SecureFileVault_PRD.docx) | Product requirements, API contract, assumptions, test strategy, and build plan. |
+| [docs/SecureFileVault_Architecture.docx](docs/SecureFileVault_Architecture.docx) | Runtime architecture, module breakdown, data model, query/index design, and scale path. |
 | [docs/Mermaid.md](docs/Mermaid.md) | Mermaid architecture and sequence diagrams for upload, deduplication, rate limiting, delete, search, stats, file types, and download flows. |
 
 ## Architecture overview
